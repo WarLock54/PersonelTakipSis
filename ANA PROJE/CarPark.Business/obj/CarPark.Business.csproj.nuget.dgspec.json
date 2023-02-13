@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Business\\CarPark.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Business\\CarPark.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Business\\CarPark.Business.csproj",
+        "projectName": "CarPark.Business",
+        "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Business\\CarPark.Business.csproj",
+        "packagesPath": "C:\\Users\\onr_5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onr_5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\CarPark.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\CarPark.DataAccess.csproj"
+              },
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj"
+              },
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\CarPark.Models.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\CarPark.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.8.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\CarPark.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\CarPark.Core.csproj",
+        "projectName": "CarPark.Core",
+        "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\CarPark.Core.csproj",
+        "packagesPath": "C:\\Users\\onr_5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onr_5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\CarPark.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\CarPark.DataAccess.csproj",
+        "projectName": "CarPark.DataAccess",
+        "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\CarPark.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\onr_5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onr_5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\CarPark.Core.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Core\\CarPark.Core.csproj"
+              },
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj",
+        "projectName": "CarPark.Entities",
+        "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj",
+        "packagesPath": "C:\\Users\\onr_5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onr_5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\CarPark.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\CarPark.Models.csproj",
+        "projectName": "CarPark.Models",
+        "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\CarPark.Models.csproj",
+        "packagesPath": "C:\\Users\\onr_5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onr_5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj": {
+                "projectPath": "C:\\Users\\onr_5\\Desktop\\ANA PROJE\\CarPark.Entities\\CarPark.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
