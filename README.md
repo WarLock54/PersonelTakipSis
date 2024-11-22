@@ -1,1 +1,1 @@
-.net core ve MONGODB kullanıldı.Aynı zamanda SOAP protokolu kullanıldı
+.net core and MONGODB,SOAP protocol was used.
